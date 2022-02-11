@@ -1,0 +1,13 @@
+# Para ajudar a lembrar e gravar algumas informações importantes
+
+### Lembrando que os comandos variam de linguagem para linguagem,mas as definições continuam as mesmas  
+
+
+
+VARIAVEL: Local aonde se guarda um dado que pode ser alterado. Ex: let velocidade = 3
+CONTATENAR: Juntar duas ou mais linhas de programação. Ex: ( "escreva sua idade" + idade )
+ALGORITMO: Conjunto de instruções ordenadas para realizar uma acao tipo  somar
+VETOR: Serve para armazenar variaveis de um mesmo tipo. Numeros[] = {10,20,30,40}
+QUEBRA DE LINHA: /n
+TABULACAO: /t
+SEMPRE COMENTAR COM // PARA ESPECIFICAR PARA O QUE DETERMINADO CODIGO SERVE
